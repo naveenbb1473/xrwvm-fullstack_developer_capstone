@@ -1,0 +1,1 @@
+The screenshot showing the root user logged out from the admin page is saved in the task folder as 'admin_logout.png'.

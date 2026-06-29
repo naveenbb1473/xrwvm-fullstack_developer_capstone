@@ -1,0 +1,1 @@
+The screenshot showing the dealers filtered by State (Texas) on the home page is saved in the task folder as 'dealersbystate.png'.

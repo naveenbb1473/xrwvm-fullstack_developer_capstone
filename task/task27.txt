@@ -1,0 +1,1 @@
+The screenshot showing the dealer details page opened through deployment is saved in the task folder as 'deployed_dealer_detail.png'.

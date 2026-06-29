@@ -1,0 +1,1 @@
+The screenshot showing the selected dealer details along with reviews is saved in the task folder as 'dealer_id_reviews.png'.

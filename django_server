@@ -1,0 +1,67 @@
+Watching for file changes with StatReloader
+[30/Jun/2026 00:48:14] "GET / HTTP/1.1" 200 4022
+[30/Jun/2026 00:48:15] "GET /static/bootstrap.min.css HTTP/1.1" 200 155800
+[30/Jun/2026 00:48:15] "GET /static/car_dealership.jpg HTTP/1.1" 200 263696
+[30/Jun/2026 00:48:15] "GET /static/style.css HTTP/1.1" 200 1918
+Not Found: /favicon.ico
+[30/Jun/2026 00:48:15] "GET /favicon.ico HTTP/1.1" 404 3776
+[30/Jun/2026 00:48:34] "GET /about HTTP/1.1" 301 0
+[30/Jun/2026 00:48:34] "GET /about/ HTTP/1.1" 200 2767
+[30/Jun/2026 00:48:34] "GET /static/person.png HTTP/1.1" 200 138137
+[30/Jun/2026 00:48:57] "GET /contact HTTP/1.1" 301 0
+[30/Jun/2026 00:48:57] "GET /contact/ HTTP/1.1" 200 2838
+[30/Jun/2026 00:48:57] "GET /static/contactus.png HTTP/1.1" 200 29347
+[30/Jun/2026 00:49:21] "GET / HTTP/1.1" 200 4022
+[30/Jun/2026 00:49:21] "GET /static/style.css HTTP/1.1" 304 0
+[30/Jun/2026 00:49:21] "GET /static/bootstrap.min.css HTTP/1.1" 304 0
+[30/Jun/2026 00:49:21] "GET /static/car_dealership.jpg HTTP/1.1" 304 0
+[30/Jun/2026 00:49:39] "GET /dealers HTTP/1.1" 301 0
+[30/Jun/2026 00:49:39] "GET /dealers/ HTTP/1.1" 200 652
+[30/Jun/2026 00:49:39] "GET /static/css/main.d9716fdc.css HTTP/1.1" 200 157408
+[30/Jun/2026 00:49:39] "GET /static/js/main.bb175d67.js HTTP/1.1" 200 176010
+[30/Jun/2026 00:49:40] "GET /djangoapp/get_dealers HTTP/1.1" 301 0
+[30/Jun/2026 00:49:40] "GET /djangoapp/get_dealers/ HTTP/1.1" 200 10650
+Not Found: /manifest.json
+[30/Jun/2026 00:49:40] "GET /manifest.json HTTP/1.1" 404 3782
+[30/Jun/2026 00:50:13] "GET /dealer/1 HTTP/1.1" 200 652
+Not Found: /manifest.json
+[30/Jun/2026 00:50:13] "GET /djangoapp/reviews/dealer/1 HTTP/1.1" 200 30
+[30/Jun/2026 00:50:13] "GET /manifest.json HTTP/1.1" 404 3782
+[30/Jun/2026 00:50:13] "GET /djangoapp/dealer/1 HTTP/1.1" 200 230
+[30/Jun/2026 00:51:37] "GET / HTTP/1.1" 200 4022
+[30/Jun/2026 00:51:37] "GET /static/style.css HTTP/1.1" 304 0
+[30/Jun/2026 00:51:37] "GET /static/car_dealership.jpg HTTP/1.1" 304 0
+[30/Jun/2026 00:51:37] "GET /static/bootstrap.min.css HTTP/1.1" 304 0
+[30/Jun/2026 00:51:40] "GET /dealers/ HTTP/1.1" 200 652
+[30/Jun/2026 00:51:40] "GET /static/js/main.bb175d67.js HTTP/1.1" 304 0
+Not Found: /manifest.json
+[30/Jun/2026 00:51:40] "GET /manifest.json HTTP/1.1" 404 3782
+[30/Jun/2026 00:51:40] "GET /static/css/main.d9716fdc.css HTTP/1.1" 304 0
+Not Found: /manifest.json
+[30/Jun/2026 00:51:40] "GET /manifest.json HTTP/1.1" 404 3782
+[30/Jun/2026 00:51:40] "GET /djangoapp/get_dealers/ HTTP/1.1" 200 10650
+[30/Jun/2026 00:51:44] "GET /dealer/1 HTTP/1.1" 200 652
+Not Found: /manifest.json
+[30/Jun/2026 00:51:44] "GET /manifest.json HTTP/1.1" 404 3782
+[30/Jun/2026 00:51:44] "GET /djangoapp/reviews/dealer/1 HTTP/1.1" 200 30
+[30/Jun/2026 00:51:44] "GET /djangoapp/dealer/1 HTTP/1.1" 200 230
+[30/Jun/2026 00:51:47] "GET /about/ HTTP/1.1" 200 2767
+[30/Jun/2026 00:51:47] "GET /static/person.png HTTP/1.1" 304 0
+[30/Jun/2026 00:51:52] "GET /contact/ HTTP/1.1" 200 2838
+[30/Jun/2026 00:51:52] "GET /static/contactus.png HTTP/1.1" 304 0
+[30/Jun/2026 00:52:19] "GET / HTTP/1.1" 200 4022
+[30/Jun/2026 00:52:19] "GET /static/style.css HTTP/1.1" 200 1918
+[30/Jun/2026 00:52:19] "GET /static/bootstrap.min.css HTTP/1.1" 200 155800
+[30/Jun/2026 00:52:19] "GET /static/car_dealership.jpg HTTP/1.1" 200 263696
+Not Found: /favicon.ico
+[30/Jun/2026 00:52:19] "GET /favicon.ico HTTP/1.1" 404 3776
+[30/Jun/2026 00:52:27] "GET /admin HTTP/1.1" 301 0
+[30/Jun/2026 00:52:27] "GET /admin/ HTTP/1.1" 302 0
+[30/Jun/2026 00:52:27] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4080
+[30/Jun/2026 00:52:27] "GET /static/admin/css/base.css HTTP/1.1" 200 23100
+[30/Jun/2026 00:52:27] "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 3538
+[30/Jun/2026 00:52:27] "GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+[30/Jun/2026 00:52:27] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+[30/Jun/2026 00:52:27] "GET /static/admin/css/login.css HTTP/1.1" 200 951
+[30/Jun/2026 00:52:27] "GET /static/admin/css/responsive.css HTTP/1.1" 200 16194
+[30/Jun/2026 00:52:27] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063

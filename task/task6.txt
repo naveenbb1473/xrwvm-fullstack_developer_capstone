@@ -1,0 +1,5 @@
+cURL Command:
+curl http://localhost:8000/djangoapp/logout
+
+Output:
+{"userName": ""}

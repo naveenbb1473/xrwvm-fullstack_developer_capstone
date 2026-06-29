@@ -1,0 +1,1 @@
+The screenshot showing the review displayed in your deployed application is saved in the task folder as 'deployed_add_review.png'.
